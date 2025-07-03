@@ -5,13 +5,16 @@ import jwt from "jsonwebtoken";
 import { readJSON, writeJSON } from "../utils/fileHandler";
 import { v4 as uuidv4 } from "uuid";
 
+// register request format
 interface RegisterUserBody {
   email: string;
   password: string;
 }
 
+//user file path
 const USERS_FILE = "./src/data/users.json";
 
+//POST- api/register - for registering user
 export const registerUser = async (req: Request<{}, {}, RegisterUserBody>, res: Response): Promise<void> => {
   try {
     const { email, password } = req.body;
@@ -41,6 +44,7 @@ export const registerUser = async (req: Request<{}, {}, RegisterUserBody>, res: 
   }
 }
 
+//POST- api/login - for login a user
 export const loginUser = async (req: Request, res: Response): Promise<void> => {
   try {
     const { email, password }: { email: string, password: string } = req.body;

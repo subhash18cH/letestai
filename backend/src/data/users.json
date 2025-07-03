@@ -3,5 +3,15 @@
     "id": "170714bf-4fbd-4c5a-a03f-5bd00e615878",
     "email": "aman@gmail.com",
     "password": "$2b$10$waFWNJ24pwJlJZ2A1TDbIu7w9TPbNkj48FN1fIYlfJhsos12dlMSC"
+  },
+  {
+    "id": "d727c2dc-3f36-4ce7-87de-7ae44dfb65b0",
+    "email": "raman@gmail.com",
+    "password": "$2b$10$72ZBIJTN43xiUtXjRqxcpO0W3H7nBxmoisdDkMz4skZ.DFkPgykwW"
+  },
+  {
+    "id": "08b23714-b265-4d57-8c6b-6139354d1d34",
+    "email": "caman@gmail.com",
+    "password": "$2b$10$RoqsBG4VhaNdMjsvYYSove7kThUcV08FfwFdCa13iJmx3RhPrzqB."
   }
 ]

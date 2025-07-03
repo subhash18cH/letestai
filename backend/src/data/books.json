@@ -1,0 +1,34 @@
+[
+  {
+    "id": "d661b7ca-817a-491a-adb7-7f9354139844",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "publishedYear": 2008,
+    "userId": "d727c2dc-3f36-4ce7-87de-7ae44dfb65b0"
+  },
+  {
+    "id": "fbcb51a0-f536-4cbc-98e9-b817eb332dac",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "publishedYear": 2018,
+    "userId": "170714bf-4fbd-4c5a-a03f-5bd00e615878"
+  },
+  {
+    "id": "82bd131a-f4da-45f0-8e1a-97291ac3d429",
+    "title": "The Pragmatic Programmer",
+    "author": "Andy Hunt & Dave Thomas",
+    "genre": "Software Engineering",
+    "publishedYear": 1999,
+    "userId": "08b23714-b265-4d57-8c6b-6139354d1d34"
+  },
+  {
+    "id": "cd9db136-1a19-4ac1-8db0-76a374925b93",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publishedYear": 1960,
+    "userId": "08b23714-b265-4d57-8c6b-6139354d1d34"
+  }
+]
